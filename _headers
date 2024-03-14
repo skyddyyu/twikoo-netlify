@@ -1,1 +1,2 @@
-/*    Access-Control-Allow-Origin: https://sofun.fun
+/*
+  Access-Control-Allow-Origin: *
